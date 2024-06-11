@@ -1,2 +1,3 @@
 kubernetes/dashboard:v2.5.1
 nginx
+alpine
