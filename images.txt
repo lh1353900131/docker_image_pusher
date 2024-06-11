@@ -1,1 +1,1 @@
-kubernetes/dashboard:2.5.1
+kubernetesui/dashboard:v2.5.1
