@@ -1,2 +1,1 @@
-kubernetesui/dashboard:v2.5.1
-kubesphere
+kubesphere/ks-installer
